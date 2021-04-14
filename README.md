@@ -1,3 +1,5 @@
+<img src="https://www.nicepng.com/png/detail/80-803627_but-before-we-cover-all-the-sexy-stuff.png" alt="Italian Trulli">
+
 <h1 align="center">Hi 👋, I'm AJ Auntor</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh!</h3>
 
