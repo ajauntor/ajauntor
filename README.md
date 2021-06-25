@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AJ Auntor</h1>
+<h1 align="center">Hi This is AJ Auntor</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajauntor&label=Profile%20views&color=0e75b6&style=flat" alt="ajauntor" /> </p>
