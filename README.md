@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ajauntor@outlook.com**
 
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/f4Zsznp/AJ-1.gif">
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/n3C0yVy/AJ-2.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
