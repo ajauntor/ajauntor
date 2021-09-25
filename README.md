@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Node and JavaScript.**
 
-- 📫 How to reach me **ajauntor@outlook.com**
+- 📫 How to reach me **auntorknocks@.gmail.com**
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/n3C0yVy/AJ-2.gif">
 
