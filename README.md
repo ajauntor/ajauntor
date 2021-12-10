@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ajauntors" target="blank"><img src="https://img.shields.io/twitter/follow/ajauntors?logo=twitter&style=for-the-badge" alt="ajauntors" /></a> </p>
 
-- 💬 Ask me about **React, Node and JavaScript.**
+- 💬 Ask me about **Python, and JavaScript.**
 
 - 📫 How to reach me **auntorknocks@.gmail.com**
 
